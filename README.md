@@ -8,5 +8,6 @@ Inspired by: THE ALGORITHMS
     -Langton's_Ant.py is featured there.
 
 Should look like this. 
+
 ![image](https://github.com/user-attachments/assets/fc0aad22-798f-45ea-a27f-d58bac97865e)
 ![image](https://github.com/user-attachments/assets/a214bbad-7cc6-4512-9e0a-2405bc4307ac)
